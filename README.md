@@ -1,0 +1,2 @@
+# manifest
+git-repo test
