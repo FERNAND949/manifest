@@ -2,10 +2,10 @@
 <manifest>
   <remote  name="origin" fetch="https://github.com/" />
 
-  <default revision="master" remote="origin" sync-j="4" />
+  <default revision="main" remote="origin" sync-j="4" />
 
-  <project path="test01" name="FERNAND949/test01" revision="master" />
-  <project path="test02" name="FERNAND949/test02" revision="master" />
+  <project path="test01" name="FERNAND949/test01" revision="main" />
+  <project path="test02" name="FERNAND949/test02" revision="main" />
 
 </manifest>
 
